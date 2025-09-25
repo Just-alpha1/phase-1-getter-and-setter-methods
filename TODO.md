@@ -1,0 +1,2 @@
+- [ ] Implement Circle class in index.js with constructor, getters, and setters
+- [ ] Run tests to verify implementation
